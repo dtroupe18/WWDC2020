@@ -7,6 +7,9 @@
 - [WatchOS](https://www.apple.com/watchos/watchos-preview/)
 - [Keynote Summary](https://www.youtube.com/watch?v=_Q8AKghK44M)
 
+* [Xcode 12](#Xcode12)
+* [SwiftUI](#SwiftUI)
+
 
 ## Xcode 12
  [Xcode what's new](https://developer.apple.com/xcode/whats-new/)
@@ -55,4 +58,9 @@
  
  
  [Developer Insider - What's new in Xcode 12](https://developerinsider.co/whats-new-in-xcode-12/)
+ 
+ 
+ ## SwiftUI
+ 
+ [Hacking with Swift - What's new in SwiftUI for iOS 14?](https://www.youtube.com/watch?v=uitE6bmeFxM)
  
