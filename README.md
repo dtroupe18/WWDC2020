@@ -1,6 +1,6 @@
 # WWDC 2020
 
-[General Links](https://www.apple.com/apple-events/june-2020/)
+# General Links
 - [iOS 14](https://www.apple.com/ios/ios-14-preview/)
 - [iPAD OS](https://www.apple.com/ipados/ipados-preview/)
 - [Mac](https://www.apple.com/macos/big-sur-preview/)
