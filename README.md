@@ -11,6 +11,7 @@
 # Sections
 * [Xcode 12](#Xcode12)
 * [SwiftUI](#SwiftUI)
+* [Privacy](#Privacy)
 
 
 ## Xcode 12
@@ -65,4 +66,9 @@
  ## SwiftUI
  
  [Hacking with Swift - What's new in SwiftUI for iOS 14?](https://www.youtube.com/watch?v=uitE6bmeFxM)
+ 
+ 
+ ## Privacy
+ 
+ [Apple Just Castrated The IDFA](https://www.forbes.com/sites/johnkoetsier/2020/06/24/apple-just-castrated-the-idfa-sending-an-80-billion-industry-into-upheaval/#47447e6e1389)
  
