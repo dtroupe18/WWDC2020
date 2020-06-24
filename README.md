@@ -1,6 +1,7 @@
 # WWDC 2020
 
 # General Links
+- [Apple Videos](https://developer.apple.com/videos/play/wwdc2020)
 - [iOS 14](https://www.apple.com/ios/ios-14-preview/)
 - [iPAD OS](https://www.apple.com/ipados/ipados-preview/)
 - [Mac](https://www.apple.com/macos/big-sur-preview/)
