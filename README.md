@@ -12,6 +12,7 @@
 * [Xcode 12](#Xcode12)
 * [SwiftUI](#SwiftUI)
 * [Privacy](#Privacy)
+* [In App Purchases](#InAppPurchases)
 
 
 ## Xcode 12
@@ -72,3 +73,7 @@
  
  [Apple Just Castrated The IDFA](https://www.forbes.com/sites/johnkoetsier/2020/06/24/apple-just-castrated-the-idfa-sending-an-80-billion-industry-into-upheaval/#47447e6e1389)
  
+ 
+ ## In App Purchases
+ 
+ [StoreKit Testing Improvements in iOS 14](https://www.revenuecat.com/blog/storekit-testing-in-xcode)
